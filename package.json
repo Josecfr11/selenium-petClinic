@@ -1,0 +1,15 @@
+{
+    "name": "mi-proyecto-mocha",
+    "version": "1.0.0",
+    "description": "Proyecto de ejemplo con Mocha y Selenium",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha src/tests/**/*.js --timeout 0"
+    },
+    "dependencies": {
+        "selenium-webdriver": "^4.35.0"
+    },
+    "devDependencies": {
+        "mocha": "^11.7.1"
+    }
+}
