@@ -10,6 +10,7 @@
         "selenium-webdriver": "^4.35.0"
     },
     "devDependencies": {
+        "@cucumber/cucumber": "^12.1.0",
         "mocha": "^11.7.1"
     }
 }
