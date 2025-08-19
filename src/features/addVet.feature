@@ -7,8 +7,8 @@ Característica: Agregar un nuevo veterinario
   Escenario: Agregar un veterinario nuevo en la página de Veterinarios
     Dado que entro a la pagina principal de petClinic
     Cuando navego a la página principal de Veterinarios
-    Y lleno el campo de nombre con el valor de "Julio"
-    Y lleno el campo de apellido con el valor de "Iglesias"
+    Y lleno el campo de nombre con el valor de "José"
+    Y lleno el campo de apellido con el valor de "Parra"
     Y selecciono el tipo de veterinario como "dentistry"
     Y doy clic en boton guardar
-    Entonces debo de poder visualizar el nombre de "Julio Iglesias" con especialidad de "dentistry"
+    Entonces debo de poder visualizar el nombre de "José Parra" con especialidad de "dentistry"
